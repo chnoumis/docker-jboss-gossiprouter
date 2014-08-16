@@ -22,7 +22,7 @@ You don't need to do this on your own, because there is an [automated build](htt
 
 ## Source
 
-The source is [available on GitHub](https://github.com/ianblenke/jboss-gossiprouter/).
+The source is [available on GitHub](https://github.com/ianblenke/docker-jboss-gossiprouter/).
 
 This is a _very_ simple Dockerfile. Please fork it and make improvements.
 
