@@ -12,7 +12,7 @@ This could easily be adapted to use any of the other [JBoss dockerfiles](https:/
 
 ## Usage
 
-    docker run -it -p 12001:5000 ianblenke/jboss-gossiprouter
+    docker run -it -p 12001:12001 ianblenke/jboss-gossiprouter
 
 ## Building on your own
 
