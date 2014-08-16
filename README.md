@@ -12,13 +12,13 @@ This could easily be adapted to use any of the other [JBoss dockerfiles](https:/
 
 ## Usage
 
-    docker run -it -p 12001:12001 ianblenke/jboss-gossiprouter
+    docker run -it -p 12001:12001 ianblenke/docker-jboss-gossiprouter
 
 ## Building on your own
 
 You don't need to do this on your own, because there is an [automated build](https://registry.hub.docker.com/u/ianblenke/jboss-gossiprouter/) for this repository, but if you really want:
 
-    docker build --rm=true --tag=ianblenke/jboss-gossiprouter .
+    docker build --rm=true --tag=ianblenke/docker-jboss-gossiprouter .
 
 ## Source
 
